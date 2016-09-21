@@ -1,6 +1,6 @@
 # Java RabbitMQ Producer example
 
-Simple RabbitMQ Producer that creates a new exchange and a queue and published 
+Simple RabbitMQ Producer that publishes an example json message to given exchange with given routing key
 
 ## System Requirements / Dependencies
 * java 1.7+
