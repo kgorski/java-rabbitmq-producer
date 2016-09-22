@@ -9,7 +9,7 @@ Simple RabbitMQ Producer that publishes an example json message to given exchang
 ## Installation
 ### Checkout the repository
 
-	git clone git@github.com:kgorski/java-rabbitmq-producer.git
+    git clone git@github.com:kgorski/java-rabbitmq-producer.git
 
 ### Run maven package
 
